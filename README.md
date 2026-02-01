@@ -1,6 +1,6 @@
-# Quantum Dashboard | OBARO LABS
+# Quantum Dashboard
 
-High-density data interface visualizing probabilistic states and quantum qubit coherence. Part of the OBARO LABS ecosystem.
+High-density data interface visualizing probabilistic states and quantum qubit coherence.
 
 ## Overview
 
@@ -57,4 +57,4 @@ This project follows the **tech-mono** design language:
 
 ---
 
-**OBARO LABS** // EPOCH V.1
+**EPOCH V.1**
